@@ -1,0 +1,23 @@
+Filled container. 
+=====
+Container contents 4 elements.
+=====
+key 0: 
+-----
+Proverb. Country: Австралия; ЫВпыви_ыафпф_фкцйк
+Aphorism. Author: Тургенев; ЙАФЫА_фыафаы_мывм
+Aphorism. Author: Чехов; ЙАФЫА_фыафаы_мывм
+key 1: 
+-----
+Proverb. Country: Сербия; ыыыы_пкп_фвпц
+Aphorism. Author: Толстой; ЙАФЫА_фыафаы_мывм
+Proverb. Country: Бельгия; ЫВпыви_ыафпф_фкцйк
+key 2: 
+-----
+Riddle. Riddle: вы_ывыфпфып_ывацфа Answer: ответ
+Aphorism. Author: Пушкин; ЫВпыви_ыафпф_фкцйк
+Proverb. Country: Австрия; ыыыы_пкп_фвпц
+key 3: 
+-----
+Proverb. Country: Румыния; ыыыы_пкп_фвпц
+Aphorism. Author: Булгаков; ЙАФЫА_фыафаы_мывм
